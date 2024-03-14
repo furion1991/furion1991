@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @furion1991
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning C# and Unity
+- 🌱 I’m currently developing C# and .NET and some time in Unity
 - 💞️ I’m looking to collaborate on anyone)
 - 📫 How to reach me: via email furion1991111@gmail.com.
 
